@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Car Genies Referral",
+    "slug": "car-genies-referral",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cargenies.referral",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.cargenies.referral",
+      "versionCode": 1
+    }
+  }
+}
